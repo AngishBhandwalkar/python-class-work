@@ -1,3 +1,4 @@
+#Angish bhandwalkar 11810766 M03
 n=int(input())
 l=[]
 a=0
