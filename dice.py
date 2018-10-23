@@ -1,3 +1,4 @@
+#   Angish bhandwalkar 11810766 M03
 import random
 from random import randint as rt
 def game(dice,faces):
