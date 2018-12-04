@@ -1,3 +1,4 @@
+#Angish Bhandwalkar M03 11810766
 def exponential (x,z):
  f={z:z**x}
  print(f)
