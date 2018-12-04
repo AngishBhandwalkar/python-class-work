@@ -1,3 +1,4 @@
+#Angish Bhandwalkar M03 11810766
 def palindrome(num):
     a=num[::-1]
     if num==a:
