@@ -1,3 +1,4 @@
+#Angish Bhandwalkar M03 11810766
 num = int(input("Enter a number: "))  
   
 if num > 1:  
